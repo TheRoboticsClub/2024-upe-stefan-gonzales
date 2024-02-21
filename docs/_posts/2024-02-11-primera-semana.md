@@ -6,7 +6,7 @@ categories:
 tags:
   - Docker
   - Github
-  - React
+  - JavaScript
 ---
 
 En esta primera semana, he dado mis primeros pasos dentro de JdeRobot conociendo a mis compañeros de prácticas y familiarizándome con las tecnologías que se usan para su plataforma Unibotics para el aprendizaje de robótica.

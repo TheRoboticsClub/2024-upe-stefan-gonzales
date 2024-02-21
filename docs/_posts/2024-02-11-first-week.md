@@ -6,7 +6,7 @@ categories:
 tags:
   - Docker
   - Github
-  - React
+  - JavaScript
 ---
 
 In this first week, I've taken my first steps into JdeRobot by getting to know my internship colleagues and familiarizing myself with the technologies used for their platform Unibotics for robotics learning.
